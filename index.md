@@ -7,6 +7,7 @@ PharoVX is hosted at [SmalltalkHub][].
 
 ESUG 2015 Slides: [PDF], [SlideShare].
 
+[![](images/pharovx-17072015-preview.png)](images/pharovx-17072015.png)
 
 Installation
 ------------
