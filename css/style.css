@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    font-family: Helvetica, Arial, Sans;
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+code {
+    font-size: 14px;
+    padding: 0.25em;
+    background-color: whitesmoke;
+    border-bottom: 1px solid lightgray;
+}
+
+pre code, code.url {
+    /* reset some settings from code {...} */
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+pre {
+    background-color: whitesmoke;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border: 1px solid lightgray;
+}
